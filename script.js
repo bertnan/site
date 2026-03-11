@@ -7,5 +7,9 @@ function clicou2(){
 }
 
 function redirecionar(){
-    window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
+    window.open("https://www.linkedin.com/in/bernardo-macedo-1b5359304/")
+}
+
+function redirecionar2(){
+    window.open("https://www.instagram.com/eubernardo.macedo/")
 }
